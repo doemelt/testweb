@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @webster47
+## - 👋 Hi, I’m @doemelt
 
-# For learning how to deploy, please search on youtube.
+# For how to deploy, please go to youtube.
 
-[![Deploy to Cloud]]
